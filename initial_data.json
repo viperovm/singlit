@@ -1,0 +1,2443 @@
+[
+{
+   "model": "admin.logentry",
+   "pk": 1,
+   "fields": {
+      "action_time": "2020-10-15T09:16:46.887Z",
+      "user": 1,
+      "content_type": 21,
+      "object_id": "1",
+      "object_repr": "News1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 2,
+   "fields": {
+      "action_time": "2020-10-15T09:17:04.258Z",
+      "user": 1,
+      "content_type": 21,
+      "object_id": "2",
+      "object_repr": "news2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 3,
+   "fields": {
+      "action_time": "2020-10-15T11:49:37.662Z",
+      "user": 1,
+      "content_type": 27,
+      "object_id": "1",
+      "object_repr": "POrtfolio1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 4,
+   "fields": {
+      "action_time": "2020-10-15T11:50:26.687Z",
+      "user": 1,
+      "content_type": 27,
+      "object_id": "2",
+      "object_repr": "POrtfolio2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 5,
+   "fields": {
+      "action_time": "2020-10-15T11:51:04.973Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "1",
+      "object_repr": "111",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 6,
+   "fields": {
+      "action_time": "2020-10-15T11:51:18.751Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "2",
+      "object_repr": "222",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 7,
+   "fields": {
+      "action_time": "2020-10-15T11:51:30.964Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "3",
+      "object_repr": "333",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 8,
+   "fields": {
+      "action_time": "2020-10-15T11:51:42.078Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "4",
+      "object_repr": "444",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 9,
+   "fields": {
+      "action_time": "2020-10-15T11:54:28.624Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "2",
+      "object_repr": "222",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 10,
+   "fields": {
+      "action_time": "2020-10-15T14:19:00.862Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "1",
+      "object_repr": "Service 1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 11,
+   "fields": {
+      "action_time": "2020-10-15T14:19:24.350Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "2",
+      "object_repr": "Service 2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 12,
+   "fields": {
+      "action_time": "2020-10-21T20:03:06.808Z",
+      "user": 1,
+      "content_type": 19,
+      "object_id": "1",
+      "object_repr": "О компании",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 13,
+   "fields": {
+      "action_time": "2020-10-22T10:39:36.827Z",
+      "user": 1,
+      "content_type": 19,
+      "object_id": "1",
+      "object_repr": "О компании",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u043e\\u0434\\u0435\\u0440\\u0436\\u0430\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 14,
+   "fields": {
+      "action_time": "2020-10-22T11:19:21.155Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "intro-1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 15,
+   "fields": {
+      "action_time": "2020-10-22T11:20:33.384Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "intro-2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 16,
+   "fields": {
+      "action_time": "2020-10-22T11:20:51.856Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "intro-3",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 17,
+   "fields": {
+      "action_time": "2020-10-22T11:20:56.863Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "1",
+      "object_repr": "О компании",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 18,
+   "fields": {
+      "action_time": "2020-10-22T11:32:01.017Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Наши услуги",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 19,
+   "fields": {
+      "action_time": "2020-10-22T11:57:57.821Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "1",
+      "object_repr": "Расчет и проектирование",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\", \"URL\", \"\\u0421\\u043e\\u0434\\u0435\\u0440\\u0436\\u0430\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 20,
+   "fields": {
+      "action_time": "2020-10-22T11:59:13.246Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "2",
+      "object_repr": "Снос зданий",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\", \"URL\", \"\\u0421\\u043e\\u0434\\u0435\\u0440\\u0436\\u0430\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 21,
+   "fields": {
+      "action_time": "2020-10-22T12:00:33.606Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "3",
+      "object_repr": "Демонтаж мелких строений",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 22,
+   "fields": {
+      "action_time": "2020-10-22T12:01:55.451Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "4",
+      "object_repr": "Монтаж и устройство кровли",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 23,
+   "fields": {
+      "action_time": "2020-10-22T12:03:05.278Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "5",
+      "object_repr": "Монтаж остекления",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 24,
+   "fields": {
+      "action_time": "2020-10-22T12:04:39.784Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "6",
+      "object_repr": "Монтаж металлоконструкций",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 25,
+   "fields": {
+      "action_time": "2020-10-22T12:07:56.728Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "7",
+      "object_repr": "Сварочные работы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 26,
+   "fields": {
+      "action_time": "2020-10-22T12:09:53.691Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "8",
+      "object_repr": "Гальваника",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 27,
+   "fields": {
+      "action_time": "2020-10-22T12:15:43.441Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "1",
+      "object_repr": "Расчет и проектирование",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u043e\\u0434\\u0435\\u0440\\u0436\\u0430\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 28,
+   "fields": {
+      "action_time": "2020-10-22T12:32:16.604Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Преимущества работы с нами",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 29,
+   "fields": {
+      "action_time": "2020-10-22T12:33:25.773Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Гарантия 5 лет на наши работы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 30,
+   "fields": {
+      "action_time": "2020-10-22T12:34:15.278Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "гарантия сроков и качества исполнения работ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 31,
+   "fields": {
+      "action_time": "2020-10-22T12:34:58.820Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "цены на работы остаются неизменными на протяжении всего проекта",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 32,
+   "fields": {
+      "action_time": "2020-10-22T12:35:49.694Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "работаем с предоплатой 50%",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 33,
+   "fields": {
+      "action_time": "2020-10-22T12:43:50.938Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "1",
+      "object_repr": "Наши клиенты о нас",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 34,
+   "fields": {
+      "action_time": "2020-10-22T12:49:39.577Z",
+      "user": 1,
+      "content_type": 29,
+      "object_id": "1",
+      "object_repr": "Отзыв",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 35,
+   "fields": {
+      "action_time": "2020-10-22T12:50:14.389Z",
+      "user": 1,
+      "content_type": 29,
+      "object_id": "2",
+      "object_repr": "Отзыв",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 36,
+   "fields": {
+      "action_time": "2020-10-22T12:50:39.959Z",
+      "user": 1,
+      "content_type": 29,
+      "object_id": "3",
+      "object_repr": "Отзыв",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 37,
+   "fields": {
+      "action_time": "2020-10-22T18:00:22.221Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Гарантия 5 лет на наши работы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u043a\\u043e\\u043d\\u043a\\u0430\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 38,
+   "fields": {
+      "action_time": "2020-10-22T18:05:05.146Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "гарантия сроков и качества исполнения работ",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u043a\\u043e\\u043d\\u043a\\u0430\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 39,
+   "fields": {
+      "action_time": "2020-10-22T19:40:18.515Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "1",
+      "object_repr": "Расчет и проектирование",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 40,
+   "fields": {
+      "action_time": "2020-10-22T20:14:23.553Z",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "1",
+      "object_repr": "Джон Шаар",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 41,
+   "fields": {
+      "action_time": "2020-10-22T20:24:16.964Z",
+      "user": 1,
+      "content_type": 19,
+      "object_id": "1",
+      "object_repr": "О компании",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u043e\\u0434\\u0435\\u0440\\u0436\\u0430\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 42,
+   "fields": {
+      "action_time": "2020-10-23T07:51:58.457Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Гарантия 5 лет на наши работы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u043a\\u043e\\u043d\\u043a\\u0430\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 43,
+   "fields": {
+      "action_time": "2020-10-28T23:50:32.073Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "8",
+      "object_repr": "Гальваника",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 44,
+   "fields": {
+      "action_time": "2020-10-28T23:50:47.425Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "3",
+      "object_repr": "Демонтаж мелких строений",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 45,
+   "fields": {
+      "action_time": "2020-10-28T23:51:05.089Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "4",
+      "object_repr": "Монтаж и устройство кровли",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 46,
+   "fields": {
+      "action_time": "2020-10-28T23:51:22.552Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "6",
+      "object_repr": "Монтаж металлоконструкций",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 47,
+   "fields": {
+      "action_time": "2020-10-28T23:51:36.690Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "5",
+      "object_repr": "Монтаж остекления",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 48,
+   "fields": {
+      "action_time": "2020-10-28T23:51:52.344Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "1",
+      "object_repr": "Расчет и проектирование",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 49,
+   "fields": {
+      "action_time": "2020-10-28T23:52:10.470Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "7",
+      "object_repr": "Сварочные работы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 50,
+   "fields": {
+      "action_time": "2020-10-28T23:52:27.289Z",
+      "user": 1,
+      "content_type": 30,
+      "object_id": "2",
+      "object_repr": "Снос зданий",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 1,
+   "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 2,
+   "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 3,
+   "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 4,
+   "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 5,
+   "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 6,
+   "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 7,
+   "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 8,
+   "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 9,
+   "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 10,
+   "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 11,
+   "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 12,
+   "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 13,
+   "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 14,
+   "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 15,
+   "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 16,
+   "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 17,
+   "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 18,
+   "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 19,
+   "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 20,
+   "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 21,
+   "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 22,
+   "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 23,
+   "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 24,
+   "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 25,
+   "fields": {
+      "name": "Can add Цифры-Элементы",
+      "content_type": 7,
+      "codename": "add_numberselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 26,
+   "fields": {
+      "name": "Can change Цифры-Элементы",
+      "content_type": 7,
+      "codename": "change_numberselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 27,
+   "fields": {
+      "name": "Can delete Цифры-Элементы",
+      "content_type": 7,
+      "codename": "delete_numberselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 28,
+   "fields": {
+      "name": "Can view Цифры-Элементы",
+      "content_type": 7,
+      "codename": "view_numberselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 29,
+   "fields": {
+      "name": "Can add Сео настройка страницы",
+      "content_type": 8,
+      "codename": "add_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 30,
+   "fields": {
+      "name": "Can change Сео настройка страницы",
+      "content_type": 8,
+      "codename": "change_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 31,
+   "fields": {
+      "name": "Can delete Сео настройка страницы",
+      "content_type": 8,
+      "codename": "delete_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 32,
+   "fields": {
+      "name": "Can view Сео настройка страницы",
+      "content_type": 8,
+      "codename": "view_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 33,
+   "fields": {
+      "name": "Can add Преимущества-Элементы",
+      "content_type": 9,
+      "codename": "add_proselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 34,
+   "fields": {
+      "name": "Can change Преимущества-Элементы",
+      "content_type": 9,
+      "codename": "change_proselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 35,
+   "fields": {
+      "name": "Can delete Преимущества-Элементы",
+      "content_type": 9,
+      "codename": "delete_proselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 36,
+   "fields": {
+      "name": "Can view Преимущества-Элементы",
+      "content_type": 9,
+      "codename": "view_proselements"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 37,
+   "fields": {
+      "name": "Can add Заявка",
+      "content_type": 10,
+      "codename": "add_request"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 38,
+   "fields": {
+      "name": "Can change Заявка",
+      "content_type": 10,
+      "codename": "change_request"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 39,
+   "fields": {
+      "name": "Can delete Заявка",
+      "content_type": 10,
+      "codename": "delete_request"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 40,
+   "fields": {
+      "name": "Can view Заявка",
+      "content_type": 10,
+      "codename": "view_request"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 41,
+   "fields": {
+      "name": "Can add Изображение раздела",
+      "content_type": 11,
+      "codename": "add_sectionimages"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 42,
+   "fields": {
+      "name": "Can change Изображение раздела",
+      "content_type": 11,
+      "codename": "change_sectionimages"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 43,
+   "fields": {
+      "name": "Can delete Изображение раздела",
+      "content_type": 11,
+      "codename": "delete_sectionimages"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 44,
+   "fields": {
+      "name": "Can view Изображение раздела",
+      "content_type": 11,
+      "codename": "view_sectionimages"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 45,
+   "fields": {
+      "name": "Can add Раздел Услуги",
+      "content_type": 12,
+      "codename": "add_servicessection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 46,
+   "fields": {
+      "name": "Can change Раздел Услуги",
+      "content_type": 12,
+      "codename": "change_servicessection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 47,
+   "fields": {
+      "name": "Can delete Раздел Услуги",
+      "content_type": 12,
+      "codename": "delete_servicessection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 48,
+   "fields": {
+      "name": "Can view Раздел Услуги",
+      "content_type": 12,
+      "codename": "view_servicessection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 49,
+   "fields": {
+      "name": "Can add Раздел Отзывы",
+      "content_type": 13,
+      "codename": "add_reviewssection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 50,
+   "fields": {
+      "name": "Can change Раздел Отзывы",
+      "content_type": 13,
+      "codename": "change_reviewssection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 51,
+   "fields": {
+      "name": "Can delete Раздел Отзывы",
+      "content_type": 13,
+      "codename": "delete_reviewssection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 52,
+   "fields": {
+      "name": "Can view Раздел Отзывы",
+      "content_type": 13,
+      "codename": "view_reviewssection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 53,
+   "fields": {
+      "name": "Can add Раздел Заявка",
+      "content_type": 14,
+      "codename": "add_requestsection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 54,
+   "fields": {
+      "name": "Can change Раздел Заявка",
+      "content_type": 14,
+      "codename": "change_requestsection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 55,
+   "fields": {
+      "name": "Can delete Раздел Заявка",
+      "content_type": 14,
+      "codename": "delete_requestsection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 56,
+   "fields": {
+      "name": "Can view Раздел Заявка",
+      "content_type": 14,
+      "codename": "view_requestsection"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 57,
+   "fields": {
+      "name": "Can add Цитата",
+      "content_type": 15,
+      "codename": "add_quote"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 58,
+   "fields": {
+      "name": "Can change Цитата",
+      "content_type": 15,
+      "codename": "change_quote"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 59,
+   "fields": {
+      "name": "Can delete Цитата",
+      "content_type": 15,
+      "codename": "delete_quote"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 60,
+   "fields": {
+      "name": "Can view Цитата",
+      "content_type": 15,
+      "codename": "view_quote"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 61,
+   "fields": {
+      "name": "Can add Преимущества",
+      "content_type": 16,
+      "codename": "add_pros"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 62,
+   "fields": {
+      "name": "Can change Преимущества",
+      "content_type": 16,
+      "codename": "change_pros"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 63,
+   "fields": {
+      "name": "Can delete Преимущества",
+      "content_type": 16,
+      "codename": "delete_pros"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 64,
+   "fields": {
+      "name": "Can view Преимущества",
+      "content_type": 16,
+      "codename": "view_pros"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 65,
+   "fields": {
+      "name": "Can add Цифры",
+      "content_type": 17,
+      "codename": "add_numbers"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 66,
+   "fields": {
+      "name": "Can change Цифры",
+      "content_type": 17,
+      "codename": "change_numbers"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 67,
+   "fields": {
+      "name": "Can delete Цифры",
+      "content_type": 17,
+      "codename": "delete_numbers"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 68,
+   "fields": {
+      "name": "Can view Цифры",
+      "content_type": 17,
+      "codename": "view_numbers"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 69,
+   "fields": {
+      "name": "Can add Вступление",
+      "content_type": 18,
+      "codename": "add_intro"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 70,
+   "fields": {
+      "name": "Can change Вступление",
+      "content_type": 18,
+      "codename": "change_intro"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 71,
+   "fields": {
+      "name": "Can delete Вступление",
+      "content_type": 18,
+      "codename": "delete_intro"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 72,
+   "fields": {
+      "name": "Can view Вступление",
+      "content_type": 18,
+      "codename": "view_intro"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 73,
+   "fields": {
+      "name": "Can add О компании",
+      "content_type": 19,
+      "codename": "add_about"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 74,
+   "fields": {
+      "name": "Can change О компании",
+      "content_type": 19,
+      "codename": "change_about"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 75,
+   "fields": {
+      "name": "Can delete О компании",
+      "content_type": 19,
+      "codename": "delete_about"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 76,
+   "fields": {
+      "name": "Can view О компании",
+      "content_type": 19,
+      "codename": "view_about"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 77,
+   "fields": {
+      "name": "Can add Сео настройка страницы",
+      "content_type": 20,
+      "codename": "add_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 78,
+   "fields": {
+      "name": "Can change Сео настройка страницы",
+      "content_type": 20,
+      "codename": "change_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 79,
+   "fields": {
+      "name": "Can delete Сео настройка страницы",
+      "content_type": 20,
+      "codename": "delete_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 80,
+   "fields": {
+      "name": "Can view Сео настройка страницы",
+      "content_type": 20,
+      "codename": "view_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 81,
+   "fields": {
+      "name": "Can add Новость",
+      "content_type": 21,
+      "codename": "add_news"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 82,
+   "fields": {
+      "name": "Can change Новость",
+      "content_type": 21,
+      "codename": "change_news"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 83,
+   "fields": {
+      "name": "Can delete Новость",
+      "content_type": 21,
+      "codename": "delete_news"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 84,
+   "fields": {
+      "name": "Can view Новость",
+      "content_type": 21,
+      "codename": "view_news"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 85,
+   "fields": {
+      "name": "Can add Сео настройка страницы",
+      "content_type": 22,
+      "codename": "add_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 86,
+   "fields": {
+      "name": "Can change Сео настройка страницы",
+      "content_type": 22,
+      "codename": "change_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 87,
+   "fields": {
+      "name": "Can delete Сео настройка страницы",
+      "content_type": 22,
+      "codename": "delete_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 88,
+   "fields": {
+      "name": "Can view Сео настройка страницы",
+      "content_type": 22,
+      "codename": "view_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 89,
+   "fields": {
+      "name": "Can add Сео настройка страницы",
+      "content_type": 23,
+      "codename": "add_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 90,
+   "fields": {
+      "name": "Can change Сео настройка страницы",
+      "content_type": 23,
+      "codename": "change_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 91,
+   "fields": {
+      "name": "Can delete Сео настройка страницы",
+      "content_type": 23,
+      "codename": "delete_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 92,
+   "fields": {
+      "name": "Can view Сео настройка страницы",
+      "content_type": 23,
+      "codename": "view_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 93,
+   "fields": {
+      "name": "Can add Сео настройка страницы",
+      "content_type": 24,
+      "codename": "add_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 94,
+   "fields": {
+      "name": "Can change Сео настройка страницы",
+      "content_type": 24,
+      "codename": "change_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 95,
+   "fields": {
+      "name": "Can delete Сео настройка страницы",
+      "content_type": 24,
+      "codename": "delete_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 96,
+   "fields": {
+      "name": "Can view Сео настройка страницы",
+      "content_type": 24,
+      "codename": "view_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 97,
+   "fields": {
+      "name": "Can add Страница портфолио",
+      "content_type": 25,
+      "codename": "add_portfoliopage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 98,
+   "fields": {
+      "name": "Can change Страница портфолио",
+      "content_type": 25,
+      "codename": "change_portfoliopage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 99,
+   "fields": {
+      "name": "Can delete Страница портфолио",
+      "content_type": 25,
+      "codename": "delete_portfoliopage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 100,
+   "fields": {
+      "name": "Can view Страница портфолио",
+      "content_type": 25,
+      "codename": "view_portfoliopage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 101,
+   "fields": {
+      "name": "Can add Изображение Портфолио",
+      "content_type": 26,
+      "codename": "add_portfolioimage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 102,
+   "fields": {
+      "name": "Can change Изображение Портфолио",
+      "content_type": 26,
+      "codename": "change_portfolioimage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 103,
+   "fields": {
+      "name": "Can delete Изображение Портфолио",
+      "content_type": 26,
+      "codename": "delete_portfolioimage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 104,
+   "fields": {
+      "name": "Can view Изображение Портфолио",
+      "content_type": 26,
+      "codename": "view_portfolioimage"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 105,
+   "fields": {
+      "name": "Can add Портфолио",
+      "content_type": 27,
+      "codename": "add_portfolio"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 106,
+   "fields": {
+      "name": "Can change Портфолио",
+      "content_type": 27,
+      "codename": "change_portfolio"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 107,
+   "fields": {
+      "name": "Can delete Портфолио",
+      "content_type": 27,
+      "codename": "delete_portfolio"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 108,
+   "fields": {
+      "name": "Can view Портфолио",
+      "content_type": 27,
+      "codename": "view_portfolio"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 109,
+   "fields": {
+      "name": "Can add Сео настройка страницы",
+      "content_type": 28,
+      "codename": "add_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 110,
+   "fields": {
+      "name": "Can change Сео настройка страницы",
+      "content_type": 28,
+      "codename": "change_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 111,
+   "fields": {
+      "name": "Can delete Сео настройка страницы",
+      "content_type": 28,
+      "codename": "delete_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 112,
+   "fields": {
+      "name": "Can view Сео настройка страницы",
+      "content_type": 28,
+      "codename": "view_pageseo"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 113,
+   "fields": {
+      "name": "Can add Отзыв",
+      "content_type": 29,
+      "codename": "add_reviews"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 114,
+   "fields": {
+      "name": "Can change Отзыв",
+      "content_type": 29,
+      "codename": "change_reviews"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 115,
+   "fields": {
+      "name": "Can delete Отзыв",
+      "content_type": 29,
+      "codename": "delete_reviews"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 116,
+   "fields": {
+      "name": "Can view Отзыв",
+      "content_type": 29,
+      "codename": "view_reviews"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 117,
+   "fields": {
+      "name": "Can add Услуга",
+      "content_type": 30,
+      "codename": "add_services"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 118,
+   "fields": {
+      "name": "Can change Услуга",
+      "content_type": 30,
+      "codename": "change_services"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 119,
+   "fields": {
+      "name": "Can delete Услуга",
+      "content_type": 30,
+      "codename": "delete_services"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 120,
+   "fields": {
+      "name": "Can view Услуга",
+      "content_type": 30,
+      "codename": "view_services"
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 1,
+   "fields": {
+      "password": "pbkdf2_sha256$216000$0wf88W4T6Epy$CLB/sXe63864b0E3wpnqvTfnYOPc2eiAITIhaeo114k=",
+      "last_login": "2020-10-15T09:15:57.541Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2020-10-15T09:14:25.981Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 1,
+   "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 2,
+   "fields": {
+      "app_label": "auth",
+      "model": "permission"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 3,
+   "fields": {
+      "app_label": "auth",
+      "model": "group"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 4,
+   "fields": {
+      "app_label": "auth",
+      "model": "user"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 5,
+   "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 6,
+   "fields": {
+      "app_label": "sessions",
+      "model": "session"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 7,
+   "fields": {
+      "app_label": "home",
+      "model": "numberselements"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 8,
+   "fields": {
+      "app_label": "home",
+      "model": "pageseo"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 9,
+   "fields": {
+      "app_label": "home",
+      "model": "proselements"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 10,
+   "fields": {
+      "app_label": "home",
+      "model": "request"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 11,
+   "fields": {
+      "app_label": "home",
+      "model": "sectionimages"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 12,
+   "fields": {
+      "app_label": "home",
+      "model": "servicessection"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 13,
+   "fields": {
+      "app_label": "home",
+      "model": "reviewssection"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 14,
+   "fields": {
+      "app_label": "home",
+      "model": "requestsection"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 15,
+   "fields": {
+      "app_label": "home",
+      "model": "quote"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 16,
+   "fields": {
+      "app_label": "home",
+      "model": "pros"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 17,
+   "fields": {
+      "app_label": "home",
+      "model": "numbers"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 18,
+   "fields": {
+      "app_label": "home",
+      "model": "intro"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 19,
+   "fields": {
+      "app_label": "about",
+      "model": "about"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 20,
+   "fields": {
+      "app_label": "about",
+      "model": "pageseo"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 21,
+   "fields": {
+      "app_label": "news",
+      "model": "news"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 22,
+   "fields": {
+      "app_label": "news",
+      "model": "pageseo"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 23,
+   "fields": {
+      "app_label": "contact",
+      "model": "pageseo"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 24,
+   "fields": {
+      "app_label": "portfolio",
+      "model": "pageseo"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 25,
+   "fields": {
+      "app_label": "portfolio",
+      "model": "portfoliopage"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 26,
+   "fields": {
+      "app_label": "portfolio",
+      "model": "portfolioimage"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 27,
+   "fields": {
+      "app_label": "portfolio",
+      "model": "portfolio"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 28,
+   "fields": {
+      "app_label": "reviews",
+      "model": "pageseo"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 29,
+   "fields": {
+      "app_label": "reviews",
+      "model": "reviews"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 30,
+   "fields": {
+      "app_label": "services",
+      "model": "services"
+   }
+},
+{
+   "model": "sessions.session",
+   "pk": "0xngaar97gup46z1txw21fiqptwvg7rr",
+   "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSFAebp07zeQgRmkaiAp7cr479qkC93ec859sQjbWuM2aIkzsjOT7PS7JcgPajvAO7Rb57m3dZkT3xV-0MGvHel5Ody_gwqjfmvQGoNCYQwWsCQhyCQIHVphrPcleI1aYaCkSkYkA1N2enKTT0o4pdj7A_Q8OAg:1kSzMb:sCyGD-Uhb2g-DVDxEtVeEv5fbMosJpTb7rtJdFFJOas",
+      "expire_date": "2020-10-29T09:15:57.743Z"
+   }
+},
+{
+   "model": "home.sectionimages",
+   "pk": 1,
+   "fields": {
+      "title": "intro-1",
+      "img_alt": "fasad-1",
+      "img": "photos/2020/10/22/home-1-1.jpg"
+   }
+},
+{
+   "model": "home.sectionimages",
+   "pk": 2,
+   "fields": {
+      "title": "intro-2",
+      "img_alt": "massion",
+      "img": "photos/2020/10/22/home-1-2.jpg"
+   }
+},
+{
+   "model": "home.sectionimages",
+   "pk": 3,
+   "fields": {
+      "title": "intro-3",
+      "img_alt": "interior",
+      "img": "photos/2020/10/22/home-1-3.jpg"
+   }
+},
+{
+   "model": "home.intro",
+   "pk": 1,
+   "fields": {
+      "title": "О компании",
+      "subtitle": "Качественно выполненный монтаж решает проблемы, а не создает их",
+      "content": "ООО СИНГЛИТ - успешная компания на протяжении долгих лет.\r\n\r\nМиссия нашей организации - помочь заказчикам качественно реализовать самые нестандартные варианты проектов в минимальные сроки и по доступной цене.\r\n\r\nНаши менеджеры помогут найти оптимальное решение для Вашей задачи.",
+      "img": [
+         1,
+         2,
+         3
+      ]
+   }
+},
+{
+   "model": "home.servicessection",
+   "pk": 1,
+   "fields": {
+      "title": "Наши услуги",
+      "subtitle": "",
+      "content": "",
+      "img": []
+   }
+},
+{
+   "model": "home.pros",
+   "pk": 1,
+   "fields": {
+      "title": "Преимущества работы с нами",
+      "subtitle": "",
+      "content": "",
+      "img": []
+   }
+},
+{
+   "model": "home.proselements",
+   "pk": 1,
+   "fields": {
+      "title": "Гарантия 5 лет на наши работы",
+      "subtitle": "",
+      "content": "Гарантия 5 лет на наши работы",
+      "icon": "style:fas,icon:calendar-check"
+   }
+},
+{
+   "model": "home.proselements",
+   "pk": 2,
+   "fields": {
+      "title": "гарантия сроков и качества исполнения работ",
+      "subtitle": "",
+      "content": "Гарантия сроков и качества исполнения работ",
+      "icon": "style:fas,icon:archway"
+   }
+},
+{
+   "model": "home.proselements",
+   "pk": 3,
+   "fields": {
+      "title": "цены на работы остаются неизменными на протяжении всего проекта",
+      "subtitle": "",
+      "content": "Цены на работы остаются неизменными на протяжении всего проекта",
+      "icon": "style:fas,icon:hand-holding-usd"
+   }
+},
+{
+   "model": "home.proselements",
+   "pk": 4,
+   "fields": {
+      "title": "работаем с предоплатой 50%",
+      "subtitle": "",
+      "content": "Работаем с предоплатой 50%",
+      "icon": "style:fas,icon:percent"
+   }
+},
+{
+   "model": "home.quote",
+   "pk": 1,
+   "fields": {
+      "text": "Будущее — это не то, куда мы идем, а то, что мы создаем. Дороги следует не искать, а строить. Сам процесс строительства меняет как самого творца, так и его судьбу.",
+      "author": "Джон Шаар",
+      "background_img_alt": "",
+      "background_img": "",
+      "img": []
+   }
+},
+{
+   "model": "home.reviewssection",
+   "pk": 1,
+   "fields": {
+      "title": "Наши клиенты о нас",
+      "subtitle": "Мы ценим наших клиентов!",
+      "content": "",
+      "img": []
+   }
+},
+{
+   "model": "about.about",
+   "pk": 1,
+   "fields": {
+      "title": "О компании",
+      "subtitle": "Несколько слов о нас",
+      "content": "Наша компания основана в  2009 году, за это время мы зарекомендовали себя на рынке как надежного и честного партнера.\r\nОсновное направление деятельности нашей организации капитальное строительство, монтаж и отделка частных домовладений и государственных учреждений, остекление и сварочные работы.\r\nМы сотрудничаем как с коммерческими, так и с государственными Заказчиками.\r\nКомпания обладает всеми необходимыми лицензиями для осуществления профессиональной деятельности, а также самой полной и современной материально-технической базой, позволяющей решать самые сложные строительные задачи.\r\nРуководством нашей компании были подобраны квалифицированные  кадры, приобретено необходимое оборудование и строительная техника, что позволяет осуществлять строительные работы с высокой производительностью. Особое внимание наша компания уделяет качеству произведенных работ. Для этого наши кадры ежегодно проходят курсы повышения квалификации, эксплуатируется и берется под реализацию более современная техника.\r\nООО СИНГЛИТ конкурентноспособная строительная организация на современном Российском рынке. Активно участвует в тендерах т государственных заказах.\r\nЕсли у Вас остались вопросы, звоните Нам и мы с удовольствием на них ответим!",
+      "img_alt": "construction",
+      "img": "photos/2020/10/21/construction.jpg"
+   }
+},
+{
+   "model": "news.news",
+   "pk": 1,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "News1",
+      "subtitle": "",
+      "slug": "news1",
+      "content": "news1 news1 news1 news1 news1",
+      "created_at": "2020-10-15T09:16:46.886Z",
+      "updated_at": "2020-10-15T09:16:46.886Z",
+      "img_alt": "",
+      "img": "",
+      "is_published": true
+   }
+},
+{
+   "model": "news.news",
+   "pk": 2,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "news2",
+      "subtitle": "",
+      "slug": "news2",
+      "content": "news2 news2 news2 news2 news2 news2 news2 news2",
+      "created_at": "2020-10-15T09:17:04.256Z",
+      "updated_at": "2020-10-15T09:17:04.256Z",
+      "img_alt": "",
+      "img": "",
+      "is_published": true
+   }
+},
+{
+   "model": "portfolio.portfolio",
+   "pk": 1,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "POrtfolio1",
+      "subtitle": "",
+      "slug": "POrtfolio1",
+      "content": "POrtfolio1 POrtfolio1 POrtfolio1 POrtfolio1 POrtfolio1",
+      "created_at": "2020-10-15T11:49:37.660Z",
+      "updated_at": "2020-10-15T11:49:37.660Z",
+      "img_alt": "",
+      "img": "",
+      "is_published": true
+   }
+},
+{
+   "model": "portfolio.portfolio",
+   "pk": 2,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "POrtfolio2",
+      "subtitle": "",
+      "slug": "POrtfolio2",
+      "content": "POrtfolio2 POrtfolio2POrtfolio2POrtfolio2v",
+      "created_at": "2020-10-15T11:50:26.686Z",
+      "updated_at": "2020-10-15T11:50:26.686Z",
+      "img_alt": "",
+      "img": "",
+      "is_published": true
+   }
+},
+{
+   "model": "portfolio.portfolioimage",
+   "pk": 1,
+   "fields": {
+      "title": "111",
+      "img": "photos/2020/10/15/Blank_Teacher.jpg",
+      "portfolio": 1
+   }
+},
+{
+   "model": "portfolio.portfolioimage",
+   "pk": 3,
+   "fields": {
+      "title": "333",
+      "img": "photos/2020/10/15/Blank_Teacher_jj0Yojj.jpg",
+      "portfolio": 2
+   }
+},
+{
+   "model": "portfolio.portfolioimage",
+   "pk": 4,
+   "fields": {
+      "title": "444",
+      "img": "photos/2020/10/15/Blank_Teacher_8b941pN.jpg",
+      "portfolio": 2
+   }
+},
+{
+   "model": "reviews.reviews",
+   "pk": 1,
+   "fields": {
+      "name": "Отзыв",
+      "content": "Выражаем огромную благодарность при работе с компанией ООО «СИНКЛИТ БИЗНЕС».\r\nКоманда компании на высшем уровне выполнили все пункты нашего договора.\r\nПриятно и иметь дело с профессионалами, в будущем буду работать только с Вами.",
+      "created_at": "2020-10-22T12:49:39.576Z",
+      "img_alt": "",
+      "img": ""
+   }
+},
+{
+   "model": "reviews.reviews",
+   "pk": 2,
+   "fields": {
+      "name": "Отзыв",
+      "content": "Работали с компанией ООО «СИНКЛИТ БИЗНЕС» в марте-апреле  2018 года.\r\nВ компании работа происходит очень слаженно, грамотные менеджеры проконсультировали по всем вопросам , дизайнеры-проектировщики предложили несколько вариантов проектов, изготовление и монтаж фасадов были проведены в короткий срок . В общем  работа по проекту была выполнена очень  профессионально, за что огромное Вам спасибо.",
+      "created_at": "2020-10-22T12:50:14.388Z",
+      "img_alt": "",
+      "img": ""
+   }
+},
+{
+   "model": "reviews.reviews",
+   "pk": 3,
+   "fields": {
+      "name": "Отзыв",
+      "content": "С компанией ООО «СИНКЛИТ БИЗНЕС»  работаем уже на протяжении нескольких лет. \r\nРабота как всегда выполнена на высшем уровне, с нашей стороны нет никаких  нареканий.\r\nПоследний проект порадовал подарками и акционным предложением для постоянных клиентов.\r\nВсем советую данную компанию, не пожалеете.",
+      "created_at": "2020-10-22T12:50:39.958Z",
+      "img_alt": "",
+      "img": ""
+   }
+},
+{
+   "model": "services.services",
+   "pk": 1,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Расчет и проектирование",
+      "subtitle": "",
+      "slug": "raschet-i-proektirovanie",
+      "content": "Исходя из вашего технического задания наши менеджеры смогут грамотно составить коммерческое предложение с расчетом и\r\nкомментариями по каждому пункту.\r\nПроектировщики проконсультируют по технической части и составят техническую и проектную документацию под Ваш проект.\r\n\r\nПроект производства работ\r\n\r\nМы готовы помочь вам с разработкой ППР.\r\nРазработка ППР заключается в детальной проработке технологии производства работ и организации строительного производства.\r\nСтоит принимать во внимание то, что в соответствии с действующей нормативной документацией строительно-монтажные работы\r\nразрешается производить только при наличии проекта производства работ (ППР).\r\nРабота без проекта производства работ – это прямое нарушение законодательства РФ.\r\nДля успешного строительства необходимо заранее решить вопросы по организации и технологии производства работ,\r\nсмоделировать строительную площадку и выполнить календарное планирование.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/raschet-i-proektirovanie.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 2,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Снос зданий",
+      "subtitle": "",
+      "slug": "snos-zdaniy",
+      "content": "Неотъемлемая часть строительных работ, требующая особенных навыков и технического оснащения. Стоимость напрямую\r\nзависит от габаритов и сложности задачи.\r\nЕсли рассматривать существующие на сегодняшний день варианты, по которым будет проводиться снос зданий, то можно\r\nвыявить несколько методик:\r\n -ручной;\r\n- полумеханизированный;\r\n- механизированный;\r\nВыбор конкретной методики, по которой будет проводиться снос сооружений, напрямую зависит от конечной цели,\r\nпоставленной перед подрядчиком.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/snos-zdaniy.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 3,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Демонтаж мелких строений",
+      "subtitle": "",
+      "slug": "demontazh-melkih-stroeniy",
+      "content": "Наша компания быстро и чисто выполнит демонтаж зданий из дерева, железобетона, монолитных и прочих конструкций.\r\nДемонтаж строений, вне зависимости от их площади, сопряжен с опасностью для людей, окружающих построек, зеленых\r\nнасаждений.\r\nЧтобы этого избежать и при работах не были нарушены действующие нормы, необходимо привлекать к работе компании,\r\nспециализирующиеся на сносе, разборе конструкций и знающие, как правильно расчищать и готовить площадки для\r\nразного целевого использования.\r\nОбращаясь к нам, заказчик получает гарантию стопроцентного соответствия нормативной документации.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/demontazh-melkih-stroeniy.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 4,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Монтаж и устройство кровли",
+      "subtitle": "",
+      "slug": "montazh-i-ustroystvo-krovli",
+      "content": "Кровля для нового дома или замена старой. Также предоставляем услуги утепления крыши, тепло- и\r\nшумоизоляцию, установку временного покрытия.\r\nВиды кровельных работ:\r\n- металлочерепица\r\n- профлист\r\n- фальцевая кровля\r\n- гибкая черепица\r\n- натуральная черепица\r\n- рулонная наплавляемая кровля\r\nПредоставляем 5 лет гарантии на свои работы.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/montazh-krovli.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 5,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Монтаж остекления",
+      "subtitle": "",
+      "slug": "montazh-ostekleniya",
+      "content": "Фасадное остекление становится все более популярными среди застройщиков. Остекление позволяет придать зданию\r\nфундаментальности и стиля, подчеркнуть его красоту.\r\nРанее считалось, что подобная отделка фасадов – это прерогатива исключительно торговых или бизнес-центров, но с\r\nкаждым годом все большее количество хозяев используют эту технологию для строительства частных домовладений.\r\nПомимо красоты, фасадное холодное и теплое остекление имеет множество достоинств:\r\n1. Скорость рабочих процессов. Его можно выполнить значительно быстрее, нежели штукатурку фасада или его отделку\r\nнатуральным камнем. Пластиковые перегородки возводятся буквально в считанные дни, это позволяет за короткий срок\r\nпокрыть даже большие площади;\r\n2. Отличные показатели теплоизоляции. Остекление часто используют для утепления балконов, лоджии и дверных\r\nпроемов. Пластик и стекло, которые могут использоваться в процессе монтажа, хорошо удерживают тепло внутри\r\nпомещения не пропускают сквозняки;\r\n3. Пластиковые витражи очень долговечные. Они не ржавеют и практически не поддаются разрушению под\r\nвоздействием химических агрессивных соединений.\r\n Наша компания предлагает качественное Фасадное остекление квалифицированными специалистами и дает гарантию 5\r\nлет.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/osteklenie-zdaniy.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 6,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Монтаж металлоконструкций",
+      "subtitle": "",
+      "slug": "montazh-metallokonstrukciy",
+      "content": "Невозможно представить современное строительство без стального основания, поэтому наша компания готова\r\nвыполнить качественный монтаж металлоконструкций любой сложности и объемов.\r\nСпециалисты Синглит помогут с консультацией и реализацией работ с гарантией качества и в минимальные сроки\r\n1. Подготовительные работы:\r\n- Технический анализ места монтажа.\r\n- Разработка эскиза и создание схемы проведения работ.\r\n- Расчет сметы расходов.\r\n- Составление проекта металлоконструкций.\r\n2. Доставка конструкций на место сборки.\r\n3. Выгрузка элементов каркаса, сортировка на объекте, распределение по местам размещения.\r\n4. Подготовка к монтажу:\r\n- Соединение мелких деталей друг с другом и перемещение к месту сборки.\r\n- Детали монтируются в порядке, установленном проектом.\r\n- Проверка правильности установки деталей.\r\n5. Скрепление металлоконструкции постоянными крепежными элементами.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/montazh-metallokonstrukciy.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 7,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Сварочные работы",
+      "subtitle": "",
+      "slug": "svarochnie-raboty",
+      "content": "Виды сварочных работ, которые готова предложить наша компания:\r\nАргонная сварка - применяется, когда необходим неразъемный сварной шов, совмещает в себе использование\r\nэлектрической дуги и газа\r\nГазовая сварка - метод отличается долгим нагревом металлов, мощность удобно контролировать, в составе газосварки\r\nприменяется горючий газ и кислород\r\nПолуавтоматическая сварка - принцип работы полуавтоматом заключается в том, что защитный газ подается в зону сварки\r\nс электродной подвижной проволокой\r\nРучная дуговая сварка (MMA, РД, РДС) - в данном случае сварное соединение формируется при помощи электрической\r\nдуги, которая образуется между электродом и металлом\r\nСборочно-сварочные работы - сборка изделий перед сваркой по шаблонам, чертежам или первоначальной модели\r\nСварочно-ремонтные работы - необходимы при деформации конструкций и деталей из металла, помогают избежать\r\nкрупных аварий\r\nСварочно-слесарные работы - комплексный вид работ, который включает в себя изготовление и установку изделий\r\nТочечная (контактная) сварка - сущность метода заключается в соединении металлических частей двумя электродами.\r\nЭтапы производства конструкций с помощью сварки:\r\n Изучение чертежей - мы готовы работать по Вашим эскизам или заняться их разработкой с нуля;\r\nПодготовка материала - работаем только с высококачественной сталью: углеродистой и легированной;\r\nСварочные работы - непосредственно сам процесс соединения деталей;\r\nТестирование - испытание конструкции или изделия на прочность.\r\nНаша компания отвечает за качество работы - сварщики всегда готовы выехать на объект.",
+      "img_alt": "",
+      "img": "photos/2020/10/28/svarka.jpg"
+   }
+},
+{
+   "model": "services.services",
+   "pk": 8,
+   "fields": {
+      "page_title": "",
+      "page_description": "",
+      "og_title": "",
+      "og_description": "",
+      "og_url": "",
+      "og_image": "",
+      "og_type": "website",
+      "meta1": "",
+      "title": "Гальваника",
+      "subtitle": "",
+      "slug": "galvanika",
+      "content": "Операция гальванического покрытия металлов заключается в нанесении на поверхность металлического изделия\r\nтонкой пленки из такого же материала с использованием электролита. В процессе обработки детали молекулы\r\nпокрывающего металла переносятся токопроводящим раствором и проникают в верхний слой изделия. В итоге\r\nпроисходит внедрение одного металла в поверхностное пространство другого. Как результат, такой\r\nгальванический метод позволяет металлоизделиям приобретать дополнительную твердость, устойчивость к\r\nкоррозии и износостойкость. У металла с гальваническим покрытием значительно повышается декоративность.\r\nПроцессы гальванического нанесения покрытия на металл отличаются своими особенностями в зависимости от\r\nприменяемого материала.\r\nК видам гальванических покрытий относятся:\r\n- хромирование\r\n- цинкование\r\n- травление\r\n- золочение и серебрение\r\n- меднение\r\n- латунирование\r\n- гальваника алюминия",
+      "img_alt": "",
+      "img": "photos/2020/10/28/galvanika.jpg"
+   }
+}
+]
